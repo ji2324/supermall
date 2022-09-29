@@ -189,7 +189,7 @@ export default {
   height: 100vh; /*视口高度：100vh相当于100% */
 }
 .main-navbar {
-  background-color: var(--color-tint);
+  background-color: var(--color-high-text);
   color: white;
 }
 /* .main-swiper {

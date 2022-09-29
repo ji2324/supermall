@@ -51,7 +51,7 @@ export default {
   height: 100vh; /*视口高度：100vh相当于100% */
 }
 .shop-car-navbar {
-  background-color: var(--color-tint);
+  background-color: var(--color-high-text);
   color: white;
 }
 .cart-scrollContent {

@@ -125,7 +125,7 @@ export default {
 
 <style scoped>
 .category-navbar {
-  background-color: #ff5777;
+  background-color: var(--color-high-text);
   color: white;
   font-weight: 700;
   z-index: 9;
